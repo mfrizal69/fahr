@@ -1,0 +1,4 @@
+Java class newclass; {
+
+System.out.print("Selamat Datang!");
+}
